@@ -1,7 +1,8 @@
 # Publication-My_Article-Soft-Classification
 SVM-Based Unmix-to-Classification Conversion for Hyperspectral Abundundance Quantification
 
-IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING, VOL. 49, NO. 11, NOVEMBER 2011
+IEEE TRANSACTIONS ON GEOSCIENCE
+https://ieeexplore.ieee.org/abstract/document/6034520
 
 Abstract—Need for a priori knowledge of the components comprising
 each pixel in a scene has set the endmember determination,
